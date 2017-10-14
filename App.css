@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.calc-first-num
+{
+  width: 50px;
+  padding:5px;
+  margin:5px;
+}
+
+.calc-second-num
+{
+  width: 50px;
+  padding:5px;
+  margin:5px;
+}
+
+.calc-equal
+{
+  padding:5px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 30px;
+  padding: 10px;
+  color: white;
+  margin-bottom:10px;
+}
+
+.calc-display{
+  background-color:gray;
+  border:0;
+}
+
+.App-title {
+  vertical-align: middle;
+  font-size: 1.5em;
+}
+
+.calc-operations
+{
+  padding:5px;
+  font-weight:bold;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
